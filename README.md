@@ -15,8 +15,9 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Errors
+
 ```
 SyntaxError: Unexpected token '??='
 ```
-To fix above error use node 18
 
+To fix above error use node 18
